@@ -45,7 +45,7 @@ I build data pipelines and analytics solutions on **Google Cloud**, with a full-
 | Project | What it is | Stack | Links |
 |---|---|---|---|
 | **abor-store** | End-to-end analytics pipeline over ~95K synthetic Chilean retail transactions. BigQuery **star schema** (dim + fact), `staging → marts` SQL layer with partitioned/clustered tables, validated locally with **DuckDB** before deploy. | `BigQuery` `SQL` `Python` `DuckDB` | [Repo](https://github.com/AngelloAbor/abor-store) · _Dashboard coming_ |
-| **fuerza-app** | Powerlifting periodization planner with **Epley/Brzycki 1RM** logic, localStorage persistence and CSV export. | `React` `Vite` `TypeScript` | [Repo](https://github.com/AngelloAbor/fuerza-app) · _Live demo coming_ |
+| **fuerza-app** | Powerlifting periodization planner with **Epley/Brzycki 1RM** logic, localStorage persistence and CSV export. | `React` `Vite` `TypeScript` | [Repo](https://github.com/AngelloAbor/fuerza-app) · [**Live Demo**](https://fuerza-app-seven.vercel.app) |
 
 ---
 
